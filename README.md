@@ -1,1 +1,4 @@
 # Hill_Fire
+![Uploading image.png…]()
+
+These images mainly reflect different angles and scenes of wildfire disasters, including smoke and flames, close-up details of fires, full views of fire scenes from a distance, fire scenarios at different times and lighting conditions, and diverse features such as the density of flame and smoke distribution. Notably, in the labeling process of this dataset, not only obvious flames are labeled, but also relatively small ignition sources, such as flames on embers and sparks carried in smoke, are given independent labels. By analyzing the distribution of labeled data, it can be found that the positions of the bounding boxes are relatively dispersed and evenly distributed, while the size distribution shows extreme cases of very large and very small sizes. Additionally, compared with the D-fire dataset and the Fire-8 dataset, this dataset has more complex scenarios and accordingly higher task difficulty.
